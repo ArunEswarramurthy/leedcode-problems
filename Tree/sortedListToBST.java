@@ -23,11 +23,7 @@
  *     }
  * }
  */
-class Tnode{
-    int data ;
-    Tnode left , right;
-         
-}
+
  
 class Solution {
     public TreeNode sortedListToBST(ListNode head) {
