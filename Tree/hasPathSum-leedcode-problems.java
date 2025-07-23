@@ -31,3 +31,4 @@ class Solution {
         return hasPathSum(root.left, newTarget) || hasPathSum(root.right, newTarget);
     }
 }
+
